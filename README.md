@@ -14,3 +14,6 @@ Home Screen: Displays featured and recommended products.
 Product Detail Screen: Shows details of a selected product.
 Cart Screen: Shows items added to the cart.
 Checkout Screen: For entering delivery and payment information.
+
+# App
+(redmi.png)
