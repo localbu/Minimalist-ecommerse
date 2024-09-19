@@ -16,4 +16,4 @@ Cart Screen: Shows items added to the cart.
 Checkout Screen: For entering delivery and payment information.
 
 # App
-(redmi.png)
+![screenshot](Minimalis_Ecommese.png)
